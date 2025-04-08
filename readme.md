@@ -49,7 +49,7 @@ Klik tautan berikut untuk melihat demo secara langsung:
 
 1. **Clone atau download repository**
    ```bash
-   git clone https://github.com/JonathanZefanya/TTG-IF-ITI.git
+   git clone https://github.com/JonathanZefanya/TTG-IF-ITI-2025.git
    ```
 
 2. **Pindahkan ke folder `htdocs`** (jika menggunakan XAMPP)
