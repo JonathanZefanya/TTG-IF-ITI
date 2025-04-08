@@ -1,3 +1,23 @@
+## 🚀 Deploy ke cPanel (Shared Hosting)
+---
+
+### 📁 1. Struktur Direktori
+
+Pastikan struktur project kamu seperti ini sebelum upload:
+
+```
+web-tools/
+├── config.php
+├── index.php
+├── database/
+│   └── dump.sql
+├── assets/
+├── includes/
+└── ...
+```
+
+---
+
 ### ☁️ 2. Upload ke cPanel
 
 1. **Zip seluruh folder `web-tools`**

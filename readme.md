@@ -91,23 +91,3 @@ This project is **private** and for **personal use only**.
 Redistribution without permission is **strictly prohibited**.
 
 ---
-
-## 🚀 Deploy ke cPanel (Shared Hosting)
----
-
-### 📁 1. Struktur Direktori
-
-Pastikan struktur project kamu seperti ini sebelum upload:
-
-```
-web-tools/
-├── config.php
-├── index.php
-├── database/
-│   └── dump.sql
-├── assets/
-├── includes/
-└── ...
-```
-
----
